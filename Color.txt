@@ -1,0 +1,6 @@
+ScriptClick Blue A9DCEC
+Login Button Yellow FFDD47
+Annotations Box light blue E2F3F9
+Troupe Settings light yellow FFFBE9
+Leave troupe red (also record button) E00101
+Green record button - AEEAA4
